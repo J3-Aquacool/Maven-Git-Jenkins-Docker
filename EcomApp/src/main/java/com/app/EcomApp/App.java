@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Maven--->Github--->Jenkins----Docker" );
      
-        System.out.println( "Succemmms nnn nnnnmmmmmmmns" );
+        System.out.println( "Succemmmnnns nnn nnnnmmmmmmmns" );
     }
 }
