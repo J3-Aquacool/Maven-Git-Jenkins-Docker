@@ -24,6 +24,7 @@
   </dependencies>
 
 <build>
+<finalName>docker-jenkins-integration</finalName>
 <plugins>
 <!-- this plugin is used to invoke the java  execution
  -->
